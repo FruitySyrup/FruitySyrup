@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a professional that has been working in higher education for almost a decade, looking to change careers into tech. Specifically to become a pixel perfect, dream website builder, front-end developer. 
+:rice_ball: I'm a professional that has been working in higher education for almost a decade, looking to change careers into tech. Specifically to become a pixel perfect, dream website builder, front-end developer. 
 
-You can see my past history from my LinkedIn profile. 
+:memo: You can see my past history from my LinkedIn profile. 
 
 
-:sparkles: Current pinned repositories are challenges I've completed from FrontEnd Mentor.com.
+:sparkles: Current pinned repositories are challenges I've completed from FrontEnd Mentor.com that I'm proud to show off.
 Take these projects as the beginning of my profolio.
 
 :rocket: I got my start taking SuperHi courses.
