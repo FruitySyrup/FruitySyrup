@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:rice_ball: I'm a professional that has been working in higher education for almost a decade, looking to change careers into tech. Specifically to become a pixel perfect, dream website builder, front-end developer. 
+:rice_ball: I'm a professional that has been working in higher education for almost a decade, looking to change careers. Specifically in an area that allows to solve problems, show my creativity, and create beautiful products.
 
 :memo: You can see my past history from my LinkedIn profile. 
 
